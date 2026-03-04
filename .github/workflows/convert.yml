@@ -1,27 +1,32 @@
-name: Auto Convert JSON to TXT
-
-on:
-  schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Download JSON
-        run: curl -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
-
-      - name: Convert JSON to TXT (M3U format)
+- name: Convert JSON to TXT (M3U format)
         run: |
           python3 <<EOF
           import json
 
           with open("playlist.json", "r") as f:
               data = json.load(f)
+
+          def get_group(name):
+              name = name.lower()
+              if "dazn" in name or "sport" in name:
+                  return "SPORT"
+              if "sky" in name:
+                  return "SKY"
+              if "rai" in name or "mediaset" in name:
+                  return "ITALIA"
+              return "ALTRO"
+
+          def get_logo(name):
+              base = "https://logo.clearbit.com/"
+              if "dazn" in name.lower():
+                  return base + "dazn.com"
+              if "sky" in name.lower():
+                  return base + "sky.com"
+              if "rai" in name.lower():
+                  return base + "rai.it"
+              if "mediaset" in name.lower():
+                  return base + "mediaset.it"
+              return ""
 
           m3u = "#EXTM3U\n\n"
 
@@ -31,7 +36,10 @@ jobs:
               license_key = channel.get("license", "")
               manifest_type = channel.get("manifest_type", "mpd")
 
-              m3u += f'#EXTINF:-1 tvg-name="{name}" group-title="Auto",{name}\n'
+              group = get_group(name)
+              logo = get_logo(name)
+
+              m3u += f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n'
               m3u += f'#KODIPROP:inputstream.adaptive.manifest_type={manifest_type}\n'
               m3u += '#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n'
               if license_key:
@@ -41,11 +49,3 @@ jobs:
           with open("orologi0.txt", "w") as f:
               f.write(m3u)
           EOF
-
-      - name: Commit file
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add orologi0.txt
-          git commit -m "Auto update orologi0.txt" || echo "No changes"
-          git push
