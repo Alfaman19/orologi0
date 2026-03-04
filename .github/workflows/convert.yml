@@ -1,4 +1,22 @@
-- name: Convert JSON to TXT (M3U format)
+name: Auto Convert JSON to TXT
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download JSON
+        run: curl -L -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
+
+      - name: Convert JSON to TXT (M3U format)
         run: |
           python3 <<EOF
           import json
@@ -18,13 +36,14 @@
 
           def get_logo(name):
               base = "https://logo.clearbit.com/"
-              if "dazn" in name.lower():
+              name_lower = name.lower()
+              if "dazn" in name_lower:
                   return base + "dazn.com"
-              if "sky" in name.lower():
+              if "sky" in name_lower:
                   return base + "sky.com"
-              if "rai" in name.lower():
+              if "rai" in name_lower:
                   return base + "rai.it"
-              if "mediaset" in name.lower():
+              if "mediaset" in name_lower:
                   return base + "mediaset.it"
               return ""
 
@@ -49,3 +68,15 @@
           with open("orologi0.txt", "w") as f:
               f.write(m3u)
           EOF
+
+      - name: Commit file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add orologi0.txt
+          git commit -m "Auto update orologi0.txt" || echo "No changes"
+          git push
+  
+  
+  
+  
