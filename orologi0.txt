@@ -6,10 +6,15 @@
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFM056STBNRFEzTmprc0ltdHBaQ0k2SWpJd01qSXhNVEl6SWl3aWNHRjBhRjlrSWpveUxDSndZWFJvSWpvaU9HVmlPVFV3WWpBNVltSXhaak16T1RCbFpEUTRPRGd6TjJWaFpqazVPRFkzTURjMk9UUmtNU0lzSW5OemFXUWlPaUl3WTJZMU1EYzBObU15WWpjaUxDSm5aVzhpT2lKcGRDSXNJbUZ6YmlJNld5SXhNek16TlNKZExDSjFZU0k2SWpZNE56aG1OMkpoWWpGa1l6UTBNakpsWlRCa05UQmtNVGRtWkdFMVpUVmpZVGsxTmpBMFpqWWlMQ0pwWVhRaU9qRTNOekl6TVRnek5qbDkuMVNJQWU0dGprSnVVbVdITm9pNEhIQTJoaHhwLTNsSDMtUVVDM3h6WEFFQSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
 
-#EXTINF:-1 tvg-name="DAZN1 EXTRA OFFLINE" tvg-logo="https://logo.clearbit.com/dazn.com" group-title="SPORT",DAZN1 EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
+#EXTINF:-1 tvg-name="DAZN1 EXTRA VAVOO 6" tvg-logo="https://logo.clearbit.com/dazn.com" group-title="SPORT",DAZN1 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/1376440573/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN2 EXTRA VAVOO 6" tvg-logo="https://logo.clearbit.com/dazn.com" group-title="SPORT",DAZN2 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/363506221/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT1" tvg-logo="" group-title="SPORT",EUROSPORT1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -17,11 +22,36 @@ https://mariofr.com/
 #KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
 
+#EXTINF:-1 tvg-name="EUROSPORT1 EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",EUROSPORT1 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3481346857/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT1 EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",EUROSPORT1 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3448075317/index.m3u8
+
 #EXTINF:-1 tvg-name="EUROSPORT2" tvg-logo="" group-title="SPORT",EUROSPORT2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=e8372283a523444c84646c4172b1bc0f:969a90e1a1a6424a68fe4b5d776368ec
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+
+#EXTINF:-1 tvg-name="EUROSPORT2 EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",EUROSPORT2 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2283887097/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT2 EXTRA VAVOO 6TIM" tvg-logo="" group-title="SPORT",EUROSPORT2 EXTRA VAVOO 6TIM
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1100261415/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT2 EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",EUROSPORT2 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT3" tvg-logo="" group-title="SPORT",EUROSPORT3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -33,20 +63,30 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd?ck=OWRkN2JlNzllNDRmNGQwOGE5MWVjNWQxNTUzZjE3Yjg6OGE2MjM2OWY4MWE0YjZlNWYyZDQ4NDZmN2JkNWU3ZDE=
 
+#EXTINF:-1 tvg-name="EUROSPORT4 EXTRA VAVOO 6TIM" tvg-logo="" group-title="SPORT",EUROSPORT4 EXTRA VAVOO 6TIM
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1668185301/index.m3u8
+
 #EXTINF:-1 tvg-name="EUROSPORT5" tvg-logo="" group-title="SPORT",EUROSPORT5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd?ck=YjQ4ZTdlNmQ5NmRhNDc5ZGE2NWU0MzVjZTY1ZmFlYjE6NDhjNzAzODc5Y2U0ZGVlZGI1YTIxMjRhMzBhMTNiYzQ=
+
+#EXTINF:-1 tvg-name="EUROSPORT5 EXTRA VAVOO 6TIM" tvg-logo="" group-title="SPORT",EUROSPORT5 EXTRA VAVOO 6TIM
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3667240765/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT6" tvg-logo="" group-title="SPORT",EUROSPORT6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd?ck=ZWFkMWM1NjdhM2RmNDg2MTk3OTliMmU3OGIxOGZkZmE6MWRlOWQ5YWY1NjUxMjk2YWE2NzkxMzk3OWFkOGM2OTQ=
 
-#EXTINF:-1 tvg-name="RADIO SERIE A" tvg-logo="" group-title="ALTRO",RADIO SERIE A
-#KODIPROP:inputstream.adaptive.manifest_type=
+#EXTINF:-1 tvg-name="EUROSPORT6 EXTRA VAVOO 6TIM" tvg-logo="" group-title="SPORT",EUROSPORT6 EXTRA VAVOO 6TIM
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/239083.ts
+https://vavoo.to/play/3421031748/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE B DCTV" tvg-logo="" group-title="ALTRO",SERIE B DCTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -60,17 +100,42 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772650204~exp%3D1772736604~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=0000
 https://matterzrh1-0-dash-pvr.zahs.tv/HD_dazn_event_4_ch/1772380192000/1772403300800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZHBBTENZSIZCTAMKBG4YTILJUGMYUIMCFIYYTIQJXGFBECNZQEZSHE3J5MV4HA2LSMF2GS33OHIYTONZSHE4DKMBVGITGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTOYRTMUZGCMRVMMYTIMDCMZSTIMZQGM3TIZLFGYZGENBRMQ3DGNZGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
+#EXTINF:-1 tvg-name="DAZN MATCH TIME EXTRA VAVOO 7" tvg-logo="https://logo.clearbit.com/dazn.com" group-title="SPORT",DAZN MATCH TIME EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2303792166/index.m3u8
+
 #EXTINF:-1 tvg-name="TG 24" tvg-logo="" group-title="ALTRO",TG 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1115df8d6727807787e98c0ceae1ee6c:f4b9e52e3f31f1fa41850de4799ca4e3
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530676_s~d4e71725-6227-4f1c-b32a-0d95dbf0ac7d_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~50_x~07953f9809ceba67f519d999f878d25aa95031276bbe04917487bfc7595274de/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="TG 24 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",TG 24 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3376031355/index.m3u8
+
+#EXTINF:-1 tvg-name="TG 24 EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",TG 24 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/318057128/index.m3u8
+
 #EXTINF:-1 tvg-name="UNO" tvg-logo="" group-title="ALTRO",UNO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=111555eeb04a19592254a98188420f69:e97d6cbe49230c8f59023f0672c9748a
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~3faf2626-bfd3-47eb-a897-82a8e396f092_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~52_x~34a17509bad21b171cb459b3960b1931efd968900b93e5ce6d9eaa48d7991f02/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="UNO EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",UNO EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2130523218/index.m3u8
+
+#EXTINF:-1 tvg-name="UNO EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",UNO EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/322024849/index.m3u8
 
 #EXTINF:-1 tvg-name="UNO PLUS" tvg-logo="" group-title="ALTRO",UNO PLUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -84,11 +149,26 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~6c6df
 #KODIPROP:inputstream.adaptive.license_key=1115f3da5e655007a42737070c789eee:62cc037e08002bc0853d005bd01a58b0
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~3f1dd977-2dee-45c2-a925-24152cd04c2e_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~b1b07f8d7075af3df01b06fe6f5751b26dac3751c15d4ccb5c453ec88f386e9a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="ATLANTIC EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",ATLANTIC EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1421393119/index.m3u8
+
+#EXTINF:-1 tvg-name="ATLANTIC EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",ATLANTIC EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1482866609/index.m3u8
+
 #EXTINF:-1 tvg-name="SERIE" tvg-logo="" group-title="ALTRO",SERIE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1115bf01aeadce32fcec6a220375a3fa:9df360a2a22411897cd8b1bc48c0afc0
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~e44bff83-dd73-4ec3-b944-72886c296771_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~54_x~b60cb19b0caba00f51f17edd50f7165932165e88064cb69aeec0ca2f061c3af6/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="SERIE EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",SERIE EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/836680112/index.m3u8
 
 #EXTINF:-1 tvg-name="COLLECTION" tvg-logo="" group-title="ALTRO",COLLECTION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -102,6 +182,11 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~413f5
 #KODIPROP:inputstream.adaptive.license_key=11153dd8de63f9748252104afd6b7405:255e0c5bb81bde9602d8746080496e04
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~2506ac62-a852-4fcd-8cc1-99c6f9a2c5dd_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~62_x~3797f8416f622630fb4b5f360b7d73fce7e008b7652563863dbcc0cacf0b6d8d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="INVESTIGATION EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",INVESTIGATION EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1968640789/index.m3u8
+
 #EXTINF:-1 tvg-name="ADVENTURE" tvg-logo="" group-title="ALTRO",ADVENTURE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -114,17 +199,32 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530684_s~df9b7
 #KODIPROP:inputstream.adaptive.license_key=1115aa47cfa18cf73cb6f936cff1f8ee:a27e7383d481596cc34334336d3e7219
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771530684_f~0_g~1_s~1d7f2b82-bbe8-4435-99c1-81602065c11d_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~54_x~fdf7f517f5b39c414108df433be24c27/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="CRIME EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CRIME EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/354961873/index.m3u8
+
 #EXTINF:-1 tvg-name="DOCUMENTARIES" tvg-logo="" group-title="ALTRO",DOCUMENTARIES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=111556afa3ac362bbf6d6237a0096793:b80627550521e85d0997e3447245f7ff
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530684_s~15f870ea-18c4-4b2f-a1bf-272c09023e7b_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~62_x~eb5140dbacdf1d812e2782397bb5299b83f3da38cda5ee61df0d499a0fb55c45/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="DOCUMENTARIES EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",DOCUMENTARIES EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/464281981/index.m3u8
+
 #EXTINF:-1 tvg-name="NATURE" tvg-logo="" group-title="ALTRO",NATURE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=111553a2ff74eff230c8bb72efc0504c:80ec2c7f64b97098f4f65a15d828ce6a
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530684_s~1b1ebf6d-1d70-4eb9-b846-d3571c4c49d4_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~55_x~513228fe0a59752904472f5a37608c6b0c3a8dcd2ce1c4d1b9dee9885e6f868d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="NATURE EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",NATURE EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3810188456/index.m3u8
 
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="" group-title="ALTRO",HISTORY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -144,6 +244,16 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530676_s~f276f
 #KODIPROP:inputstream.adaptive.license_key=11158d61157893c665c5ec942528d020:2d4b7343dd929afbbd61ef0aa37366d9
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530683_s~45dd24a0-9453-47e9-86bf-20a0832262cc_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~53_x~7576df3fedf998068341bb0b52c8c6188693dffeef83fdb1ddc6cea1890de018/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="ARTE EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",ARTE EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1806815496/index.m3u8
+
+#EXTINF:-1 tvg-name="ARTE EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",ARTE EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1902695925/index.m3u8
+
 #EXTINF:-1 tvg-name="MTV" tvg-logo="" group-title="ALTRO",MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -156,11 +266,51 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530676_s~f0df8
 #KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609650_s~33ac0429-3e43-46dd-86a6-e6e0eb556e96_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~58_x~d7cf9daaaf192baba1f539b6d82e9a82768cbe9fdd7b31a05d6a49b99b0177c3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="CINEMA UNO EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA UNO EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2872151911/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA UNO EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA UNO EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1759625738/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA UNO 24 EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA UNO 24 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1699876530/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMADUE OFFLINE" tvg-logo="" group-title="ALTRO",CINEMADUE OFFLINE
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="CINEMADUE EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMADUE EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1228534500/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMADUE EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMADUE EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2330574729/index.m3u8
+
 #EXTINF:-1 tvg-name="CINEMA COLLECTION" tvg-logo="" group-title="ALTRO",CINEMA COLLECTION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~9de93c8a-431b-4cbc-bec2-d1dadaa7b763_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~65_x~7d23c4dd898f5ebf16e62569f0dc7c3bec4dbdc63a91c10b373ce669a3059a02/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="CINEMA COLLECTION EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA COLLECTION EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1759653413/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA COLLECTION EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA COLLECTION EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3525837057/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMA FAMILY" tvg-logo="" group-title="ALTRO",CINEMA FAMILY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -168,11 +318,31 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~9de93
 #KODIPROP:inputstream.adaptive.license_key=1115074065832f74af7e279e1203adce:20ece4131fbec82ac7ff056838512143
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~bde63343-024c-4a89-87cf-2c0001537954_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~61_x~962663be19653722435b202406829a311cbc781f1ab0996f3125057d5bb0d6ef/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="CINEMA FAMILY EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA FAMILY EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/415795144/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA FAMILY EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA FAMILY EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3216516117/index.m3u8
+
 #EXTINF:-1 tvg-name="CINEMA ACTION" tvg-logo="" group-title="ALTRO",CINEMA ACTION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609652_f~0_g~1_s~0eb8aa65-d31f-4d5d-bb15-14d798a0f9f8_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~61_x~135643f4e71869dd895ba82536760052/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="CINEMA ACTION EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA ACTION EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3812796171/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA ACTION EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA ACTION EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMA SUSPENSE" tvg-logo="" group-title="ALTRO",CINEMA SUSPENSE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -180,11 +350,31 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609652_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115d04562a1c328a84b2dab41244cba:5cf8c65d4177349308d7043384880659
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609652_f~0_g~1_s~bb88ae37-72ce-46bc-a06b-664dc1e8053a_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~63_x~069d4c0b67825b1eb47a74409771849f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="CINEMA SUSPENSE EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA SUSPENSE EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1820997555/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA SUSPENSE EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA SUSPENSE EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3060043751/index.m3u8
+
 #EXTINF:-1 tvg-name="CINEMA ROMANCE" tvg-logo="" group-title="ALTRO",CINEMA ROMANCE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1115dbeea57d2fadedc278956bcbfb02:3eee23f97ae49a81c03356599a614fca
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~1de1c1f1-076a-442a-b365-0f5c73b42d18_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~62_x~98727dd066c0894d479ccd79f58cf7a63acc4e22f98ab1af7415dcd2cc48fbf9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="CINEMA ROMANCE EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA ROMANCE EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2890008905/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA ROMANCE EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA ROMANCE EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1281264885/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMA DRAMA" tvg-logo="" group-title="ALTRO",CINEMA DRAMA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -192,11 +382,26 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~1de1c
 #KODIPROP:inputstream.adaptive.license_key=11155ad807b90b9570fb8cce067f6166:74c4430ed8142190e52d4b303286696f
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~2af0b7de-feff-47c5-9147-a2655a2d504a_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~3dc93ceb5f6332fec2e7c517a429347a909b839075cbd505af9581e1fa26fd57/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="CINEMA DRAMA EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA DRAMA EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1235530177/index.m3u8
+
 #EXTINF:-1 tvg-name="CINEMA COMEDY" tvg-logo="" group-title="ALTRO",CINEMA COMEDY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609653_s~0d38b472-a4a3-41cf-ac48-cc0984c8ddb9_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~61_x~e33a4ebfd26ebca956ad7b55eedc459f49586bfcaf2e0c7e072aaa1a18c64f8f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="CINEMA COMEDY EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",CINEMA COMEDY EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/500203271/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA COMEDY EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",CINEMA COMEDY EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3131104474/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMA STORIES" tvg-logo="" group-title="ALTRO",CINEMA STORIES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -210,11 +415,26 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609653_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115715a0176a5cc5c4a99d18aad46b8:945885544539726f423879d634f189ed
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772323929_s~fed24020-baed-4315-b682-7d3cadf17aaf_u~679e54eb1217924231489b162862356605f5ef451297b5af838625f5ce918be5_l~56_x~b01079ff3089de745afa26ecdf59965fd3b00b0702c0c4119d0ee7afffbf5507/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport24)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="SPORT 24 EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT 24 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2775802255/index.m3u8
+
 #EXTINF:-1 tvg-name="SPORT UNO" tvg-logo="" group-title="SPORT",SPORT UNO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=11155c01708d8cfb8c4ab9eba61cd667:1d0e60aa72557332fe3c19c10c799e44
 https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772408563_s~c515b1f8-4fa9-4272-b01e-01f6364e8bc1_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_l~57_x~8e1007f3d77267acc0c86a42cc5611c51bcd6a25afb507e431827fa38ff4d494/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="SPORT UNO EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT UNO EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/210669162/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT UNO EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT UNO EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT CALCIO" tvg-logo="" group-title="SPORT",SPORT CALCIO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -222,11 +442,31 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772408563_s~c515b
 #KODIPROP:inputstream.adaptive.license_key=1115d2e9d2fc7e91a17a49a32fa1d7c5:3091d57e19d4cd64d0a7860fd51a407b
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~5d2daad8-cab9-41d2-a8c8-985b827bd1ef_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~e27ddf71e81a635da2aeb2e31cbdc76b70184e8f1f2f63bf150fb7d10db93909/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="SPORT CALCIO EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT CALCIO EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1665920101/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT CALCIO EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT CALCIO EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/449990998/index.m3u8
+
 #EXTINF:-1 tvg-name="SPORT TENNIS" tvg-logo="" group-title="SPORT",SPORT TENNIS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=111502e5020c22f334024649db0473b0:f21df64583c42f06a43da510348999d2
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~a46bcf7d-da34-4c4a-a795-50adeda62288_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~bdcacd0ace3b5ec2930f4066c9e5e3c93639a2f3f19cb1e4a8c44168239fe132/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="SPORT TENNIS EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT TENNIS EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2100771782/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TENNIS EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT TENNIS EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT ARENA" tvg-logo="" group-title="SPORT",SPORT ARENA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -234,11 +474,31 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~a46bc
 #KODIPROP:inputstream.adaptive.license_key=111540b8660ba8e79a3a5ed27f13faae:f7741588468232bae853b377f6055423
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~060d2d08-d4a2-41c5-ba25-76ff475a13e9_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~59_x~85564f9ce4d05316ac276ca7681e7566dd9e50f489b2391b7bc6d683730cddcc/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="SPORT ARENA EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT ARENA EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3007400791/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT ARENA EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT ARENA EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2555960713/index.m3u8
+
 #EXTINF:-1 tvg-name="SPORT BASKET" tvg-logo="" group-title="SPORT",SPORT BASKET
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1115b07f797683f8bd1b04981fb620b1:b673c34da69e6d72ddda0c0a490a5dad
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~6bbea77b-30e9-4346-9faf-75ff2797eadb_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~9834ab5a3282c1a26527ff30f7c3aefc49439748caf6c105ab78588a6ffffb2e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="SPORT BASKET EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT BASKET EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2711959620/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT BASKET EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT BASKET EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/326825326/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT MAX" tvg-logo="" group-title="SPORT",SPORT MAX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -246,11 +506,26 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~6bbea
 #KODIPROP:inputstream.adaptive.license_key=1115052a60395b3a366b3702913268cb:e40065cd95acb5006bcbca396b4fb7ff
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~5443644d-aea6-494b-a13a-c77ea0b26017_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~ad5c21ef45ba118ad6314e8fda2e29492a9795dcfcb6bf4c8c482790750bbc64/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="SPORT MAX EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT MAX EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2066326916/index.m3u8
+
 #EXTINF:-1 tvg-name="SPORT F1" tvg-logo="" group-title="SPORT",SPORT F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=11154d869478b29885c97128668c0bcb:ed56a3ee6d508fb22d51d3184de4597d
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~1caa4a6f-8572-49eb-abe3-7595e4103cff_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~56_x~486ca19eb0d24127ac4e772c2622a3ffbfdbce9aef8b8bfb0378b4d6e32fc9cc/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="SPORT F1 EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT F1 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/4246774056/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT F1 EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT F1 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2289038972/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT MOTOGP" tvg-logo="" group-title="SPORT",SPORT MOTOGP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -258,11 +533,26 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~1caa4
 #KODIPROP:inputstream.adaptive.license_key=1115513a5cc885d17eece855929342d7:7019704fe6afb5ebc2d7cd0954123c69
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~245e2cdb-3864-4b94-af2e-e30f8f8d5a93_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~c6446b35a6e98abd10e35c630e6b2dd9471a3bd6105818dd64c42378c4c65515/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-name="SPORT MOTOGP EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT MOTOGP EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3036316886/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT MOTOGP EXTRA VAVOO 7" tvg-logo="" group-title="SPORT",SPORT MOTOGP EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2090703806/index.m3u8
+
 #EXTINF:-1 tvg-name="SPORT GOLF" tvg-logo="" group-title="SPORT",SPORT GOLF
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1115a7529a94d9d12dd9bf3138797961:433ec83080523d346a1bf1aae91fc009
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~c34892dd-eb4b-4173-8c6b-5695a019bdaf_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~58_x~3ebe1f0704b1fc79994c76ece857397fa8f29047555c13bb95aa704946d07d6e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportgolf)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-name="SPORT GOLF EXTRA VAVOO 6" tvg-logo="" group-title="SPORT",SPORT GOLF EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/729945219/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT LEGEND" tvg-logo="" group-title="SPORT",SPORT LEGEND
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -330,67 +620,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771530679_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11158627294fcbd5e724e2b521c87aeb:c26bc6e33e8f39dc748f66885935a63f
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530679_s~a1e32445-8bc7-42bd-ad04-b78cd62eb7f1_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~a5f7dcfbe416f459d9a061741dbca0e69add210e0ee0dd41e741baa16199babe/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport259)/master_2hr-aac.mpd
 
-#EXTINF:-1 tvg-name="SPORT 24 EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT 24 EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT UNO EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT UNO EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT CALCIO EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT CALCIO EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT TENNIS EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT TENNIS EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT ARENA EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT ARENA EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT BASKET EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT BASKET EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT MAX EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT MAX EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT F1 EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT F1 EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT MOTOGP EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT MOTOGP EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT GOLF EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT GOLF EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT LEGEND EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT LEGEND EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SPORT MIX EXTRA OFFLINE" tvg-logo="" group-title="SPORT",SPORT MIX EXTRA OFFLINE
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
-
-#EXTINF:-1 tvg-name="SKY CH" tvg-logo="https://logo.clearbit.com/sky.com" group-title="SKY",SKY CH
+#EXTINF:-1 tvg-name="SKYCH" tvg-logo="https://logo.clearbit.com/sky.com" group-title="SKY",SKYCH
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=0000
@@ -431,6 +661,56 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~07318
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-name="PRIMAFILA1 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA1 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA2 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA2 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA3 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA3 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA4 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA4 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA5 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA5 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA6 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA6 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA7 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA7 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA8 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA8 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA9 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA9 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="PRIMAFILA10 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA10 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
 
 #EXTINF:-1 tvg-name="LAST MINUTE 1" tvg-logo="" group-title="ALTRO",LAST MINUTE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -520,6 +800,36 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-pr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd?ck=NGUyMjY3N2U4YWVjM2M5M2I5MmU5ZDQ1ZDJiY2E2ZGU6NzY0Y2U2ZTAxZDI1NjM4ODk5OWIyZjkzNWI5YzA4YTE=&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+
+#EXTINF:-1 tvg-name="RSILA1 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",RSILA1 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="RSILA1 EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",RSILA1 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="RSILA2 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",RSILA2 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="RSILA2 EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",RSILA2 EXTRA VAVOO 7
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="INTERTV EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",INTERTV EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
+
+#EXTINF:-1 tvg-name="TELEFOGGIA EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",TELEFOGGIA EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mariofr.com/
 
 #EXTINF:-1 tvg-name="PRIME ENG OFFLINE" tvg-logo="" group-title="ALTRO",PRIME ENG OFFLINE
 #KODIPROP:inputstream.adaptive.manifest_type=
