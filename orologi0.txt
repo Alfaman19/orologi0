@@ -715,8 +715,8 @@ https://mariofr.com/
 #EXTINF:-1 tvg-name="LAST MINUTE 1" tvg-logo="" group-title="ALTRO",LAST MINUTE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=887a5aa8bc0b589fbbe2779c100d23b2:779c43d5af4d76df5fb1d26b169aee96
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772471703~exp%3D1772558103~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D72ba995f83872957d99360a59b1f648304cdbbce3588dbbe32ef9e0ce82679c8%23wm%3D0~hmac%3D7004d8e005d13e4e3399fe1273a01cce0add864e29bc217c7f706d9f4792d6c7/dvmkv23w0hsk1xcqtyr388pft/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=d4873ae9808a5e0792f65c4c5fbfe3e0:c053dc774e279aa145c57ee09e7bcdad
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772822703~exp%3D1772909103~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D63cacc9cf9592572f74b550d30117b70c09c9ba06b592d630e2584db19bcbe03%23wm%3D1%23wmd%3D1152~hmac%3D3546ec9a7b419a9baa2d2102c9259997e759675b23e7d57a9cf34dd8df342b0b/1l54xcec0do5w1lg4l87ocd8vu/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-name="LAST MINUTE 2" tvg-logo="" group-title="ALTRO",LAST MINUTE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
