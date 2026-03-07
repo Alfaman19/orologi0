@@ -1,27 +1,32 @@
-name: Convert JSON to M3U
+name: Auto-generate IPTV Playlist
 
 on:
-  workflow_dispatch:
+  push:
+    paths:
+      - 'playlist.json'
 
 jobs:
   convert:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Download JSON from riccamario repo
+      - name: Download playlist.json from riccamariofrancesco-cell repo
         run: |
           curl -s -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
 
-      - name: Convert JSON to M3U
+      - name: Generate M3U playlist
         run: |
           python3 << 'EOF'
           import json
 
+          # Legge il JSON scaricato
           with open("playlist.json", "r", encoding="utf-8") as f:
               data = json.load(f)
 
+          # Inizia la playlist M3U
           m3u = "#EXTM3U\n"
 
           for ch in data:
@@ -29,17 +34,23 @@ jobs:
               url = ch.get("url","")
               cat = ch.get("category","Altro")
 
+              # Aggiunge canale e categoria
               m3u += f'#EXTINF:-1 group-title="{cat}",{name}\n'
               m3u += f"{url}\n"
 
+          # Scrive la playlist finale
           with open("orologi0.txt","w",encoding="utf-8") as f:
               f.write(m3u)
           EOF
 
-      - name: Commit playlist
+      - name: Commit updated playlist
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
           git add orologi0.txt
-          git commit -m "Update orologi0.txt"
+          git commit -m "Auto-update orologi0.txt"
           git push
+  
+  
+  
+  
