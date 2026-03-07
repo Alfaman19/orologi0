@@ -1,0 +1,45 @@
+name: Convert JSON to M3U
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download JSON from riccamario repo
+        run: |
+          curl -s -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
+
+      - name: Convert JSON to M3U
+        run: |
+          python3 << 'EOF'
+          import json
+
+          with open("playlist.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          m3u = "#EXTM3U\n"
+
+          for ch in data:
+              name = ch.get("name","Canale")
+              url = ch.get("url","")
+              cat = ch.get("category","Altro")
+
+              m3u += f'#EXTINF:-1 group-title="{cat}",{name}\n'
+              m3u += f"{url}\n"
+
+          with open("orologi0.txt","w",encoding="utf-8") as f:
+              f.write(m3u)
+          EOF
+
+      - name: Commit playlist
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add orologi0.txt
+          git commit -m "Update orologi0.txt"
+          git push
