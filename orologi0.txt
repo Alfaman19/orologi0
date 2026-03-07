@@ -663,54 +663,84 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~07318
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-name="PRIMAFILA1 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA1 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA2 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA2 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA3 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA3 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA4 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA4 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA5 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA5 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA6 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA6 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA7 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA7 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA8 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA8 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA9 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA9 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/1134113883/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIMAFILA10 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA10 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/4272937805/index.m3u8
+
+#EXTINF:-1 tvg-name="PRIMAFILA11 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA11 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3285185277/index.m3u8
+
+#EXTINF:-1 tvg-name="PRIMAFILA12 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA12 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/2221901869/index.m3u8
+
+#EXTINF:-1 tvg-name="PRIMAFILA13 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA13 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/3104809373/index.m3u8
+
+#EXTINF:-1 tvg-name="PRIMAFILA14 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA14 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/187661709/index.m3u8
+
+#EXTINF:-1 tvg-name="PRIMAFILA15 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA15 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/911168573/index.m3u8
+
+#EXTINF:-1 tvg-name="PRIMAFILA16 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",PRIMAFILA16 EXTRA VAVOO 6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vavoo.to/play/1911500525/index.m3u8
 
 #EXTINF:-1 tvg-name="LAST MINUTE 1" tvg-logo="" group-title="ALTRO",LAST MINUTE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -802,34 +832,34 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-pr
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd?ck=NGUyMjY3N2U4YWVjM2M5M2I5MmU5ZDQ1ZDJiY2E2ZGU6NzY0Y2U2ZTAxZDI1NjM4ODk5OWIyZjkzNWI5YzA4YTE=&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
 
 #EXTINF:-1 tvg-name="RSILA1 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",RSILA1 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/2455610203/index.m3u8
 
 #EXTINF:-1 tvg-name="RSILA1 EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",RSILA1 EXTRA VAVOO 7
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/2290395046/index.m3u8
 
 #EXTINF:-1 tvg-name="RSILA2 EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",RSILA2 EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/3590183307/index.m3u8
 
 #EXTINF:-1 tvg-name="RSILA2 EXTRA VAVOO 7" tvg-logo="" group-title="ALTRO",RSILA2 EXTRA VAVOO 7
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/3475299702/index.m3u8
 
 #EXTINF:-1 tvg-name="INTERTV EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",INTERTV EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/2973773076/index.m3u8
 
 #EXTINF:-1 tvg-name="TELEFOGGIA EXTRA VAVOO 6" tvg-logo="" group-title="ALTRO",TELEFOGGIA EXTRA VAVOO 6
-#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://mariofr.com/
+https://vavoo.to/play/2365107871/index.m3u8
 
 #EXTINF:-1 tvg-name="PRIME ENG OFFLINE" tvg-logo="" group-title="ALTRO",PRIME ENG OFFLINE
 #KODIPROP:inputstream.adaptive.manifest_type=
