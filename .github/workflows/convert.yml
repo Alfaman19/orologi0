@@ -1,53 +1,87 @@
-name: Auto-generate simple M3U
+name: Auto-update IPTV playlist
 
+# Trigger automatico: ogni ora controlla se ci sono aggiornamenti
 on:
-  workflow_dispatch:        # puoi lanciare manualmente
-  push:
-    paths:
-      - 'playlist.json'    # se modifichi questo file nel tuo repo, parte automaticamente
+  schedule:
+    - cron: '0 * * * *'   # ogni ora
+  workflow_dispatch:       # puoi anche lanciare manualmente
 
 jobs:
   convert:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Download remote JSON
+      - name: Download JSON from riccamariofrancesco-cell
         run: |
           curl -s -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
 
-      - name: Generate simple M3U
+      - name: Convert JSON to M3U with KodiProp
         run: |
           python3 << 'EOF'
           import json
+          import urllib.parse
 
-          # Legge il JSON scaricato
-          with open("playlist.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+          with open("playlist.json","r",encoding="utf-8") as f:
+              data=json.load(f)
 
-          # Inizia playlist M3U
-          m3u = "#EXTM3U\n"
+          m3u="#EXTM3U\n\n"
 
-          # Aggiunge tutti i canali senza categorie
           for ch in data:
-              name = ch.get("name","Canale")
-              url = ch.get("url","")
-              m3u += f'#EXTINF:-1,{name}\n'
-              m3u += f'{url}\n'
+              name=ch.get("name","Canale")
+              url=ch.get("url","")
+              lic=ch.get("license","")
 
-          # Scrive file finale
-          with open("orologi0.txt","w", encoding="utf-8") as f:
+              url_lower=url.lower()
+
+              headers=""
+
+              # Headers automatici per alcuni provider
+              if "dazn" in url_lower or "dai.google.com" in url_lower:
+                  ua=urllib.parse.quote("Mozilla/5.0 (Web0S; Linux/SmartTV)")
+                  headers=f"User-Agent={ua}&Referer=https://www.dazn.com/&Origin=https://www.dazn.com"
+
+              elif "nowtv" in url_lower or "nowitlin" in url_lower:
+                  headers="User-Agent=Mozilla/5.0&Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it"
+
+              elif "discovery" in url_lower:
+                  headers="User-Agent=Mozilla/5.0&Referer=https://www.discoveryplus.com/&Origin=https://www.discoveryplus.com"
+
+              elif "vodafone.pt" in url_lower:
+                  headers="User-Agent=Mozilla/5.0&Referer=http://rr.cdn.vodafone.pt/&Origin=http://rr.cdn.vodafone.pt"
+
+              elif "clarovideo.com" in url_lower:
+                  headers="User-Agent=Mozilla/5.0&Referer=https://clarovideo.com/&Origin=https://clarovideo.com"
+
+              elif "starzplayarabia" in url_lower:
+                  headers="User-Agent=Mozilla/5.0"
+
+              # Aggiunge KodiProp se c'è la licenza
+              if lic:
+                  m3u+="#KODIPROP:inputstream=inputstream.adaptive\n"
+                  m3u+="#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n"
+                  m3u+=f"#KODIPROP:inputstream.adaptive.license_key={lic}\n"
+
+              # Aggiunge headers se presenti
+              if headers:
+                  m3u+=f"#EXTVLCOPT:http-referrer={headers}\n"
+
+              # Canale
+              m3u+=f"#EXTINF:-1,{name}\n"
+              m3u+=f"{url}\n\n"
+
+          # Scrive il file TXT pronto per TiviMate
+          with open("orologi0.txt","w",encoding="utf-8") as f:
               f.write(m3u)
           EOF
 
-      - name: Commit orologi0.txt
+      - name: Commit and push playlist
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
           git add orologi0.txt
-          git commit -m "Auto-update orologi0.txt"
+          git commit -m "Auto-update IPTV playlist"
           git push
   
   
