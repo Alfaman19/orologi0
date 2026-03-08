@@ -40,7 +40,7 @@ jobs:
               m3u+=f"#EXTINF:-1,{name}\n"
               m3u+=f"{url}\n\n"
 
-          with open("orologi0.txt","w",encoding="utf-8") as f:
+          with open("vacanz3.txt","w",encoding="utf-8") as f:
               f.write(m3u)
           EOF
 
@@ -48,10 +48,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add orologi0.txt
+          git add vacanz3.txt
           git commit -m "update playlist" || echo "no changes"
           git push
-  
-  
-  
-  
