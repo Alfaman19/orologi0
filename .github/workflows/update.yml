@@ -50,9 +50,9 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
-          git add orologi0.txt
-          git commit -m "auto update playlist"
-          git push
+          git add orologi0.txt || true
+git commit -m "auto update playlist" || echo "no changes"
+git push
   
   
   
