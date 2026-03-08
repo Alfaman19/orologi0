@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Scarica repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Scarica JSON
+      - name: Download JSON
         run: |
           curl -L -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
 
-      - name: Converti in M3U Tivimate
+      - name: Convert JSON to M3U
         run: |
           python3 << 'EOF'
           import json
@@ -28,31 +28,29 @@ jobs:
           m3u="#EXTM3U\n\n"
 
           for ch in data:
-
-              name = ch.get("name","Canale")
+              name = ch.get("name","Channel")
               url = ch.get("url","")
-              license = ch.get("license","")
+              lic = ch.get("license","")
 
-              if license:
+              if lic:
                   m3u+="#KODIPROP:inputstream=inputstream.adaptive\n"
                   m3u+="#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n"
-                  m3u+=f"#KODIPROP:inputstream.adaptive.license_key={license}\n"
+                  m3u+=f"#KODIPROP:inputstream.adaptive.license_key={lic}\n"
 
               m3u+=f"#EXTINF:-1,{name}\n"
               m3u+=f"{url}\n\n"
 
           with open("orologi0.txt","w",encoding="utf-8") as f:
               f.write(m3u)
-
           EOF
 
-      - name: Carica playlist
+      - name: Commit file
         run: |
-          git config user.name github-actions
-          git config user.email actions@github.com
-          git add orologi0.txt || true
-git commit -m "auto update playlist" || echo "no changes"
-git push
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add orologi0.txt
+          git commit -m "update playlist" || echo "no changes"
+          git push
   
   
   
