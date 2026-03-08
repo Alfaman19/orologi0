@@ -1,0 +1,59 @@
+name: Update playlist
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+
+      - name: Scarica JSON
+        run: |
+          curl -L -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
+
+      - name: Converti in M3U Tivimate
+        run: |
+          python3 << 'EOF'
+          import json
+
+          with open("playlist.json","r",encoding="utf-8") as f:
+              data=json.load(f)
+
+          m3u="#EXTM3U\n\n"
+
+          for ch in data:
+
+              name = ch.get("name","Canale")
+              url = ch.get("url","")
+              license = ch.get("license","")
+
+              if license:
+                  m3u+="#KODIPROP:inputstream=inputstream.adaptive\n"
+                  m3u+="#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n"
+                  m3u+=f"#KODIPROP:inputstream.adaptive.license_key={license}\n"
+
+              m3u+=f"#EXTINF:-1,{name}\n"
+              m3u+=f"{url}\n\n"
+
+          with open("orologi0.txt","w",encoding="utf-8") as f:
+              f.write(m3u)
+
+          EOF
+
+      - name: Carica playlist
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add orologi0.txt
+          git commit -m "auto update playlist"
+          git push
+  
+  
+  
+  
