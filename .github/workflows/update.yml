@@ -17,7 +17,7 @@ jobs:
         run: |
           curl -L -o playlist.json https://raw.githubusercontent.com/riccamariofrancesco-cell/mariofr-repo/main/playlist.json
 
-      - name: Convert JSON to M3U
+      - name: Convert JSON to Tivimate format
         run: |
           python3 << 'EOF'
           import json
@@ -28,20 +28,23 @@ jobs:
           m3u="#EXTM3U\n\n"
 
           for ch in data:
+
               name = ch.get("name","Channel")
               url = ch.get("url","")
               lic = ch.get("license","")
 
+              m3u+=f"#EXTINF:-1,{name}\n"
+
               if lic:
-                  m3u+="#KODIPROP:inputstream=inputstream.adaptive\n"
-                  m3u+="#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n"
+                  m3u+="#KODIPROP:inputstream.adaptive.manifest_type=mpd\n"
+                  m3u+="#KODIPROP:inputstream.adaptive.license_type=clearkey\n"
                   m3u+=f"#KODIPROP:inputstream.adaptive.license_key={lic}\n"
 
-              m3u+=f"#EXTINF:-1,{name}\n"
               m3u+=f"{url}\n\n"
 
           with open("vacanz3.txt","w",encoding="utf-8") as f:
               f.write(m3u)
+
           EOF
 
       - name: Commit file
