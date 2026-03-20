@@ -1,15 +1,15 @@
 #EXTM3U
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#EXTINF:-1,DAZN1
-https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFM056STBNRFEzTmprc0ltdHBaQ0k2SWpJd01qSXhNVEl6SWl3aWNHRjBhRjlrSWpveUxDSndZWFJvSWpvaU9HVmlPVFV3WWpBNVltSXhaak16T1RCbFpEUTRPRGd6TjJWaFpqazVPRFkzTURjMk9UUmtNU0lzSW5OemFXUWlPaUl3WTJZMU1EYzBObU15WWpjaUxDSm5aVzhpT2lKcGRDSXNJbUZ6YmlJNld5SXhNek16TlNKZExDSjFZU0k2SWpZNE56aG1OMkpoWWpGa1l6UTBNakpsWlRCa05UQmtNVGRtWkdFMVpUVmpZVGsxTmpBMFpqWWlMQ0pwWVhRaU9qRTNOekl6TVRnek5qbDkuMVNJQWU0dGprSnVVbVdITm9pNEhIQTJoaHhwLTNsSDMtUVVDM3h6WEFFQSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
+#EXTINF:-1,DAZN 1 OFFLINE
+https://mariofr.com/
 
-#EXTINF:-1,DAZN1 EXTRA VAVOO 6
+#EXTINF:-1,DAZN 1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/325/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZN 1 EXTRA VAVOO 6
 https://vavoo.to/play/1376440573/index.m3u8
 
-#EXTINF:-1,DAZN2 EXTRA VAVOO 6
+#EXTINF:-1,DAZN 2 EXTRA VAVOO 6
 https://vavoo.to/play/363506221/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -39,26 +39,47 @@ https://vavoo.to/play/1100261415/index.m3u8
 #EXTINF:-1,EUROSPORT2 EXTRA VAVOO 7
 https://vavoo.to/play/2317684453/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e2398b0eeb04829b4711e14b4a91244:11e26659ebfecf6a22ed56da340448cd
 #EXTINF:-1,EUROSPORT3
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd?ck=MWUyMzk4YjBlZWIwNDgyOWI0NzExZTE0YjRhOTEyNDQ6MTFlMjY2NTllYmZlY2Y2YTIyZWQ1NmRhMzQwNDQ4Y2Q=
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dd7be79e44f4d08a91ec5d1553f17b8:8a62369f81a4b6e5f2d4846f7bd5e7d1
 #EXTINF:-1,EUROSPORT4
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd?ck=OWRkN2JlNzllNDRmNGQwOGE5MWVjNWQxNTUzZjE3Yjg6OGE2MjM2OWY4MWE0YjZlNWYyZDQ4NDZmN2JkNWU3ZDE=
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
 
 #EXTINF:-1,EUROSPORT4 EXTRA VAVOO 6TIM
 https://vavoo.to/play/1668185301/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b48e7e6d96da479da65e435ce65faeb1:48c703879ce4deedb5a2124a30a13bc4
 #EXTINF:-1,EUROSPORT5
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd?ck=YjQ4ZTdlNmQ5NmRhNDc5ZGE2NWU0MzVjZTY1ZmFlYjE6NDhjNzAzODc5Y2U0ZGVlZGI1YTIxMjRhMzBhMTNiYzQ=
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
 
 #EXTINF:-1,EUROSPORT5 EXTRA VAVOO 6TIM
 https://vavoo.to/play/3667240765/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead1c567a3df48619799b2e78b18fdfa:1de9d9af5651296aa67913979ad8c694
 #EXTINF:-1,EUROSPORT6
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd?ck=ZWFkMWM1NjdhM2RmNDg2MTk3OTliMmU3OGIxOGZkZmE6MWRlOWQ5YWY1NjUxMjk2YWE2NzkxMzk3OWFkOGM2OTQ=
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
 
 #EXTINF:-1,EUROSPORT6 EXTRA VAVOO 6TIM
 https://vavoo.to/play/3421031748/index.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
+#EXTINF:-1,INTER TV
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
+
+#EXTINF:-1,INTER TV EXTRA VAVOO 6
+https://vavoo.to/play/2973773076/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -321,6 +342,9 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609653_f~0_g~1
 #EXTINF:-1,SPORT 24
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772323929_s~fed24020-baed-4315-b682-7d3cadf17aaf_u~679e54eb1217924231489b162862356605f5ef451297b5af838625f5ce918be5_l~56_x~b01079ff3089de745afa26ecdf59965fd3b00b0702c0c4119d0ee7afffbf5507/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport24)/master_2hr-aac.mpd
 
+#EXTINF:-1,SPORT 24 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/334/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
 #EXTINF:-1,SPORT 24 EXTRA VAVOO 6
 https://vavoo.to/play/2775802255/index.m3u8
 
@@ -329,6 +353,9 @@ https://vavoo.to/play/2775802255/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11155c01708d8cfb8c4ab9eba61cd667:1d0e60aa72557332fe3c19c10c799e44
 #EXTINF:-1,SPORT UNO
 https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772408563_s~c515b1f8-4fa9-4272-b01e-01f6364e8bc1_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_l~57_x~8e1007f3d77267acc0c86a42cc5611c51bcd6a25afb507e431827fa38ff4d494/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1,SPORT UNO EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/326/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1,SPORT UNO EXTRA VAVOO 6
 https://vavoo.to/play/210669162/index.m3u8
@@ -342,6 +369,12 @@ https://vavoo.to/play/3192996672/index.m3u8
 #EXTINF:-1,SPORT CALCIO
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~5d2daad8-cab9-41d2-a8c8-985b827bd1ef_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~e27ddf71e81a635da2aeb2e31cbdc76b70184e8f1f2f63bf150fb7d10db93909/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
+#EXTINF:-1,SPORT CALCIO NUMERO 1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/328/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT CALCIO NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/333/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
 #EXTINF:-1,SPORT CALCIO EXTRA VAVOO 6
 https://vavoo.to/play/1665920101/index.m3u8
 
@@ -353,6 +386,9 @@ https://vavoo.to/play/449990998/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=111502e5020c22f334024649db0473b0:f21df64583c42f06a43da510348999d2
 #EXTINF:-1,SPORT TENNIS
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~a46bcf7d-da34-4c4a-a795-50adeda62288_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~bdcacd0ace3b5ec2930f4066c9e5e3c93639a2f3f19cb1e4a8c44168239fe132/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+
+#EXTINF:-1,SPORT TENNIS EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/329/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1,SPORT TENNIS EXTRA VAVOO 6
 https://vavoo.to/play/2100771782/index.m3u8
@@ -366,6 +402,9 @@ https://vavoo.to/play/78546677/index.m3u8
 #EXTINF:-1,SPORT ARENA
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~060d2d08-d4a2-41c5-ba25-76ff475a13e9_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~59_x~85564f9ce4d05316ac276ca7681e7566dd9e50f489b2391b7bc6d683730cddcc/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd
 
+#EXTINF:-1,SPORT ARENA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/331/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
 #EXTINF:-1,SPORT ARENA EXTRA VAVOO 6
 https://vavoo.to/play/3007400791/index.m3u8
 
@@ -377,6 +416,9 @@ https://vavoo.to/play/2555960713/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1115b07f797683f8bd1b04981fb620b1:b673c34da69e6d72ddda0c0a490a5dad
 #EXTINF:-1,SPORT BASKET
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~6bbea77b-30e9-4346-9faf-75ff2797eadb_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~9834ab5a3282c1a26527ff30f7c3aefc49439748caf6c105ab78588a6ffffb2e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
+
+#EXTINF:-1,SPORT BASKET EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/335/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1,SPORT BASKET EXTRA VAVOO 6
 https://vavoo.to/play/2711959620/index.m3u8
@@ -390,6 +432,9 @@ https://vavoo.to/play/326825326/index.m3u8
 #EXTINF:-1,SPORT MAX
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530677_s~5443644d-aea6-494b-a13a-c77ea0b26017_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~ad5c21ef45ba118ad6314e8fda2e29492a9795dcfcb6bf4c8c482790750bbc64/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd
 
+#EXTINF:-1,SPORT MAX EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/332/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
 #EXTINF:-1,SPORT MAX EXTRA VAVOO 6
 https://vavoo.to/play/2066326916/index.m3u8
 
@@ -398,6 +443,9 @@ https://vavoo.to/play/2066326916/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11154d869478b29885c97128668c0bcb:ed56a3ee6d508fb22d51d3184de4597d
 #EXTINF:-1,SPORT F1
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~1caa4a6f-8572-49eb-abe3-7595e4103cff_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~56_x~486ca19eb0d24127ac4e772c2622a3ffbfdbce9aef8b8bfb0378b4d6e32fc9cc/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
+
+#EXTINF:-1,SPORT F1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/327/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1,SPORT F1 EXTRA VAVOO 6
 https://vavoo.to/play/4246774056/index.m3u8
@@ -410,6 +458,9 @@ https://vavoo.to/play/2289038972/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1115513a5cc885d17eece855929342d7:7019704fe6afb5ebc2d7cd0954123c69
 #EXTINF:-1,SPORT MOTOGP
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~245e2cdb-3864-4b94-af2e-e30f8f8d5a93_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~c6446b35a6e98abd10e35c630e6b2dd9471a3bd6105818dd64c42378c4c65515/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
+
+#EXTINF:-1,SPORT MOTOGP EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/330/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1,SPORT MOTOGP EXTRA VAVOO 6
 https://vavoo.to/play/3036316886/index.m3u8
@@ -432,11 +483,17 @@ https://vavoo.to/play/729945219/index.m3u8
 #EXTINF:-1,SPORT LEGEND
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~e2ab1f90-337c-4dfe-b4cf-a14266bd7490_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~719eb2ee479926dcb76d34d7a6efeaef2d75c391fb460bf14129b2ba9b7aa91e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportlegend)/master_2hr-aac.mpd
 
+#EXTINF:-1,SPORT LEGEND EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/336/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11159561fed23660bbdd8b1367cf1742:7d0c585755e25b3c52ae660501b7e44f
 #EXTINF:-1,SPORT MIX
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530678_s~70c5042b-fae9-456a-90f2-3e10d57b850c_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~04ee72fddd8296af57544277bbcd3e432a17dc5e938eeb71a53c8ae06d4f0358/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
+
+#EXTINF:-1,SPORT MIX EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/337/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -663,14 +720,266 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-pr
 #EXTINF:-1,LBA TV 2
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
 #EXTINF:-1,LBA TV 3
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd?ck=OTlmOTAyMDVjMjRjMzE5ZGI1NzQzODI5NmE5NWNlYTU6YWFlYzY5NWM4ODY5MmFjOWRlYjBjMGE3MWEwYWViODk=&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
 #EXTINF:-1,LBA TV 4
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd?ck=NzQ0MjA3MjgzYTkxMzNkZGI5ZWE3OWFmNTI4MDE4OTM6ZDExOWI5NDFiYjJlMWVjMWNkNDZkYmQ3YzVjMzQ4M2U=&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
 #EXTINF:-1,LBA TV 5
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd?ck=NGUyMjY3N2U4YWVjM2M5M2I5MmU5ZDQ1ZDJiY2E2ZGU6NzY0Y2U2ZTAxZDI1NjM4ODk5OWIyZjkzNWI5YzA4YTE=&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
+
+#EXTINF:-1,PREMIERSPORTS1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/300/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,PREMIERSPORTS2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/301/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SKYSPORTSMIX EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/302/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/303/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/304/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/305/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LALIGA TV 1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/306/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZN 1SPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/307/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR PLUSVAMOS EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/308/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR PLUSLALIGA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/309/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZNLALIGASPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/310/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR PLUSDEPORTES EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/311/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZNF1SPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/312/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZN 2SPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/313/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR PLUSGOLF EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/314/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTARLALIGAHDR1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/315/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTARLALIGAHDR2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/316/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTARLALIGA2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/317/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTARLALIGA2 NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/318/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR4 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/319/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTAR5 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/320/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LALIGA TV 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/321/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,PLACEHOLDER322 MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/322/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,MOVISTARLALIGA2 NUMERO 3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/323/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZNLALIGA2SPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/324/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZN 1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/325/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT UNO EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/326/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT F1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/327/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT CALCIO NUMERO 1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/328/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT TENNIS EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/329/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT MOTOGP EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/330/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT ARENA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/331/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT MAX EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/332/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT CALCIO NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/333/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT 24 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/334/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT BASKET EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/335/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT LEGEND EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/336/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,SPORT MIX EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/337/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/338/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSPREMIERLEAGUE EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/339/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,COSMOTESPORT1HD EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/340/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,COSMOTESPORT2HD EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/341/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,COSMOTESPORT3HD EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/342/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,EUROSPORT1SPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/343/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,EUROSPORT2SPAGNA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/344/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/345/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/346/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/347/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS4 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/348/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS5 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/349/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTS6 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/350/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSEXT1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/351/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSEXT2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/352/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSEXT3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/353/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSEXT4 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/354/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSNEWS EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/355/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSPRIME EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/356/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,NOVASPORTSSTART EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/357/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/358/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/359/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/360/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS2 NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/361/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/362/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS3 NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/363/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS5 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/364/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS NUMERO 3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/365/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,LIGUE1 PLUS NUMERO 4 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/366/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINSPORTS1FRANCIA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/367/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINSPORTS2FRANCIA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/368/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINSPORTS3FRANCIA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/369/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,CANAL PLUSFOOT EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/370/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,RMCSPORT1 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/371/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,EUROSPORT2 AUDIO NON DISPONIBILE EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/372/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINMOVIES EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/373/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,AFTERFOOTTVFRANCIA EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/374/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZNCOMMERCIAL EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/375/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZNCOMMERCIAL NUMERO 2 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/376/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,DAZNCOMMERCIAL NUMERO 3 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/377/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINSPORTS4 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/378/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINSPORTS5 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/379/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1,BEINSPORTS6 EXTRA MEDIAHOSTING
+https://cc3.screenistream.xyz:8080/stream/380/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1,RSILA1 EXTRA VAVOO 6
 https://vavoo.to/play/2455610203/index.m3u8
@@ -683,9 +992,6 @@ https://vavoo.to/play/3590183307/index.m3u8
 
 #EXTINF:-1,RSILA2 EXTRA VAVOO 7
 https://vavoo.to/play/3475299702/index.m3u8
-
-#EXTINF:-1,INTERTV EXTRA VAVOO 6
-https://vavoo.to/play/2973773076/index.m3u8
 
 #EXTINF:-1,TELEFOGGIA EXTRA VAVOO 6
 https://vavoo.to/play/2365107871/index.m3u8
