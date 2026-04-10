@@ -1,15 +1,291 @@
 #EXTM3U
 
-#EXTINF:-1,DAZN 1 OFFLINE
+#EXTINF:-1,RAI1EXTRAVAVOO6
 https://mariofr.com/
 
-#EXTINF:-1,DAZN 1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/325/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,RAI1EXTRAVAVOO7
+https://mariofr.com/
 
-#EXTINF:-1,DAZN 1 EXTRA VAVOO 6
+#EXTINF:-1,RAI2EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAI2EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAI3EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAI3EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RETE4EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RETE4EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,CANALE5EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,CANALE5EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,ITALIA1EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,LA7EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,LA7EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,TV8EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,TV8EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,NOVEEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,NOVEEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,20MEDIASETEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,20MEDIASETEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAI4EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAI4EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,IRISEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,IRISEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAI5EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAI5EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAIMOVIEEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAIMOVIEEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAIPREMIUMEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAIPREMIUMEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,CIELOEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,CIELOEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,27TWENTYSEVENEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,27TWENTYSEVENEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,TV2000EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,TV2000EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,LA7DEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,LA5EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,LA5EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,REALTIMEEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,REALTIMEEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,QVCEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,QVCEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,FOODNETWORKEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,FOODNETWORKEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,CINE34EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,CINE34EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,FOCUSEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,FOCUSEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,FOCUSEXTRAVAVOO7BACKUP
+https://mariofr.com/
+
+#EXTINF:-1,RTL1025EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RTL1025EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,WARNERTVEXTRAVAVOODAVALUTARE
+https://mariofr.com/
+
+#EXTINF:-1,GIALLOEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,GIALLOEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,TOPCRIMEEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,TOPCRIMEEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,BOINGEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,BOINGEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,K2EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,K2EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAIGULPEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAIGULPEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAIYOYOEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAIYOYOEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,FRISBEEEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,BOINGPLUSEXTRAVAVOODAVALUTARE
+https://mariofr.com/
+
+#EXTINF:-1,CARTOONITOEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,CARTOONITOEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,SUPEREXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,SUPEREXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAINEWS24EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAINEWS24EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,MEDIASETITALIA2EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,SKYTG24EXTRAVAVOODAVALUTARE
+https://mariofr.com/
+
+#EXTINF:-1,TGCOM24EXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,TGCOM24EXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,DMAXEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,DMAXEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,ITALIA53EXTRAVAVOODAVALUTARE
+https://mariofr.com/
+
+#EXTINF:-1,RAISTORIAEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAISTORIAEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,MEDIASETXTRAEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,HGTVEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,HGTVEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAISCUOLAEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAISCUOLAEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,RAISPORTEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,RAISPORTEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,MOTORTRENDEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,SPORTITALIAEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,SUPERTENNISEXTRAVAVOO6
+https://mariofr.com/
+
+#EXTINF:-1,SUPERTENNISEXTRAVAVOO7
+https://mariofr.com/
+
+#EXTINF:-1,DAZN1DAVALUTARE
+https://mariofr.com/
+
+#EXTINF:-1,DAZN1EXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
+
+#EXTINF:-1,DAZN1EXTRAVAVOO6
 https://vavoo.to/play/1376440573/index.m3u8
 
-#EXTINF:-1,DAZN 2 EXTRA VAVOO 6
+#EXTINF:-1,DAZN2EXTRAVAVOO6
 https://vavoo.to/play/363506221/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -18,10 +294,10 @@ https://vavoo.to/play/363506221/index.m3u8
 #EXTINF:-1,EUROSPORT1
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
 
-#EXTINF:-1,EUROSPORT1 EXTRA VAVOO 6
+#EXTINF:-1,EUROSPORT1EXTRAVAVOO6
 https://vavoo.to/play/3481346857/index.m3u8
 
-#EXTINF:-1,EUROSPORT1 EXTRA VAVOO 7
+#EXTINF:-1,EUROSPORT1EXTRAVAVOO7
 https://vavoo.to/play/3448075317/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -30,13 +306,13 @@ https://vavoo.to/play/3448075317/index.m3u8
 #EXTINF:-1,EUROSPORT2
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
 
-#EXTINF:-1,EUROSPORT2 EXTRA VAVOO 6
+#EXTINF:-1,EUROSPORT2EXTRAVAVOO6
 https://vavoo.to/play/2283887097/index.m3u8
 
-#EXTINF:-1,EUROSPORT2 EXTRA VAVOO 6TIM
+#EXTINF:-1,EUROSPORT2EXTRAVAVOO6TIM
 https://vavoo.to/play/1100261415/index.m3u8
 
-#EXTINF:-1,EUROSPORT2 EXTRA VAVOO 7
+#EXTINF:-1,EUROSPORT2EXTRAVAVOO7
 https://vavoo.to/play/2317684453/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -51,7 +327,7 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mp
 #EXTINF:-1,EUROSPORT4
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
 
-#EXTINF:-1,EUROSPORT4 EXTRA VAVOO 6TIM
+#EXTINF:-1,EUROSPORT4EXTRAVAVOO6TIM
 https://vavoo.to/play/1668185301/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -60,7 +336,7 @@ https://vavoo.to/play/1668185301/index.m3u8
 #EXTINF:-1,EUROSPORT5
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
 
-#EXTINF:-1,EUROSPORT5 EXTRA VAVOO 6TIM
+#EXTINF:-1,EUROSPORT5EXTRAVAVOO6TIM
 https://vavoo.to/play/3667240765/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -69,70 +345,67 @@ https://vavoo.to/play/3667240765/index.m3u8
 #EXTINF:-1,EUROSPORT6
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
 
-#EXTINF:-1,EUROSPORT6 EXTRA VAVOO 6TIM
+#EXTINF:-1,EUROSPORT6EXTRAVAVOO6TIM
 https://vavoo.to/play/3421031748/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
-#EXTINF:-1,INTER TV
+#EXTINF:-1,INTERTV
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
 
-#EXTINF:-1,INTER TV EXTRA VAVOO 6
+#EXTINF:-1,INTERTVEXTRAVAVOO6
 https://vavoo.to/play/2973773076/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=316e323b65ea564083048a8920ef75ed:656d89569b2207a1d13027d50686a557
-#EXTINF:-1,SERIE B DCTV
+#EXTINF:-1,SERIEBDCTV
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772650204~exp%3D1772736604~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D263fbe5934a244e6b8fcc1082d9306e92e043e79ddcdac61c6fa2906a5f8082c%23wm%3D0~hmac%3Dcd73e2bf47f0c937b9c14f3514d0db071e4c6f58c752f2d89a799b5da5848e3f/tv7mm45oc66v1boky4o9p9kyw/web/stream.mpd?channel=3957&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
-#EXTINF:-1,DAZN CH
+#EXTINF:-1,DAZNCH
 https://matterzrh1-3-dash-pvr.zahs.tv/HD_dazn_event_3_ch/1772836544000/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2GII2TAMZWGE4EMLJUGM2TMQKCGU3TMQRRGEYUKMJUEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCNBQGQTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTIZBQMVSWGNBZMYYWKZJSGE2TCZRWGQ4GGMZSHA2TAZRWMU3TMZJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
-#EXTINF:-1,DAZN MATCH TIME EXTRA VAVOO 7
+#EXTINF:-1,DAZNMATCHTIMEEXTRAVAVOO7
 https://vavoo.to/play/2303792166/index.m3u8
 
-#EXTINF:-1,TG 24
+#EXTINF:-1,TG24
 https://sky%40@tg24/
 
-#EXTINF:-1,TG 24 EXTRA VAVOO 6
+#EXTINF:-1,TG24EXTRAVAVOO6
 https://vavoo.to/play/3376031355/index.m3u8
 
-#EXTINF:-1,TG 24 EXTRA VAVOO 7
+#EXTINF:-1,TG24EXTRAVAVOO7
 https://vavoo.to/play/318057128/index.m3u8
 
 #EXTINF:-1,UNO
 https://sky%40@skyuno/
 
-#EXTINF:-1,UNO EXTRA VAVOO 6
+#EXTINF:-1,UNOEXTRAVAVOO6
 https://vavoo.to/play/2130523218/index.m3u8
 
-#EXTINF:-1,UNO EXTRA VAVOO 7
+#EXTINF:-1,UNOEXTRAVAVOO7
 https://vavoo.to/play/322024849/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11153e39ec1eea0e567f2b650d30b9f7:c7cba9aca05204c288f7945ed28bdcf3
-#EXTINF:-1,UNO PLUS
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~6c6df55b-060b-4c45-97c6-55e26783c42f_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~56_x~d7551f30e05e0006a0b941b4065207a765668cba1de5e4adb8b6934bcebbbc6a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyunoplus)/master_2hr-aac.mpd
+#EXTINF:-1,UNOPLUS
+https://sky%40@skyunoplus/
 
 #EXTINF:-1,ATLANTIC
 https://sky%40@skyatlantic/
 
-#EXTINF:-1,ATLANTIC EXTRA VAVOO 6
+#EXTINF:-1,ATLANTICEXTRAVAVOO6
 https://vavoo.to/play/1421393119/index.m3u8
 
-#EXTINF:-1,ATLANTIC EXTRA VAVOO 7
+#EXTINF:-1,ATLANTICEXTRAVAVOO7
 https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1,SERIE
 https://sky%40@skyserie/
 
-#EXTINF:-1,SERIE EXTRA VAVOO 6
+#EXTINF:-1,SERIEEXTRAVAVOO6
 https://vavoo.to/play/836680112/index.m3u8
 
 #EXTINF:-1,COLLECTION
@@ -141,7 +414,7 @@ https://sky%40@skycollection/
 #EXTINF:-1,INVESTIGATION
 https://sky%40@skyinvestigation/
 
-#EXTINF:-1,INVESTIGATION EXTRA VAVOO 6
+#EXTINF:-1,INVESTIGATIONEXTRAVAVOO6
 https://vavoo.to/play/1968640789/index.m3u8
 
 #EXTINF:-1,ADVENTURE
@@ -150,298 +423,271 @@ https://sky%40@skyadventure/
 #EXTINF:-1,CRIME
 https://sky%40@skycrime/
 
-#EXTINF:-1,CRIME EXTRA VAVOO 6
+#EXTINF:-1,CRIMEEXTRAVAVOO6
 https://vavoo.to/play/354961873/index.m3u8
 
 #EXTINF:-1,DOCUMENTARIES
 https://sky%40@skydocumentaries/
 
-#EXTINF:-1,DOCUMENTARIES EXTRA VAVOO 6
+#EXTINF:-1,DOCUMENTARIESEXTRAVAVOO6
 https://vavoo.to/play/464281981/index.m3u8
 
 #EXTINF:-1,NATURE
 https://sky%40@skynature/
 
-#EXTINF:-1,NATURE EXTRA VAVOO 6
+#EXTINF:-1,NATUREEXTRAVAVOO6
 https://vavoo.to/play/3810188456/index.m3u8
 
 #EXTINF:-1,HISTORYCHANNEL
 https://sky%40@historychannel/
 
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1,COMEDYCENTRAL
 https://sky%40@comedycentral/
 
 #EXTINF:-1,ARTE
 https://sky%40@skyarte/
 
-#EXTINF:-1,ARTE EXTRA VAVOO 6
+#EXTINF:-1,ARTEEXTRAVAVOO6
 https://vavoo.to/play/1806815496/index.m3u8
 
-#EXTINF:-1,ARTE EXTRA VAVOO 7
+#EXTINF:-1,ARTEEXTRAVAVOO7
 https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1,MTV
 https://sky%40@mtv/
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
-#EXTINF:-1,CINEMA UNO
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609650_s~33ac0429-3e43-46dd-86a6-e6e0eb556e96_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~58_x~d7cf9daaaf192baba1f539b6d82e9a82768cbe9fdd7b31a05d6a49b99b0177c3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMAUNO
+https://sky%40@skycinemauno/
 
-#EXTINF:-1,CINEMA UNO EXTRA VAVOO 6
+#EXTINF:-1,CINEMAUNOEXTRAVAVOO6
 https://vavoo.to/play/2872151911/index.m3u8
 
-#EXTINF:-1,CINEMA UNO EXTRA VAVOO 7
+#EXTINF:-1,CINEMAUNOEXTRAVAVOO7
 https://vavoo.to/play/1759625738/index.m3u8
 
-#EXTINF:-1,CINEMA UNO 24 EXTRA VAVOO 7
+#EXTINF:-1,CINEMAUNO24EXTRAVAVOO7
 https://vavoo.to/play/1699876530/index.m3u8
 
-#EXTINF:-1,CINEMADUE OFFLINE
+#EXTINF:-1,CINEMADUEDAVALUTARE
 https://mariofr.com/
 
-#EXTINF:-1,CINEMADUE EXTRA VAVOO 6
+#EXTINF:-1,CINEMADUEEXTRAVAVOO6
 https://vavoo.to/play/1228534500/index.m3u8
 
-#EXTINF:-1,CINEMADUE EXTRA VAVOO 7
+#EXTINF:-1,CINEMADUEEXTRAVAVOO7
 https://vavoo.to/play/2330574729/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
-#EXTINF:-1,CINEMA COLLECTION
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~9de93c8a-431b-4cbc-bec2-d1dadaa7b763_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~65_x~7d23c4dd898f5ebf16e62569f0dc7c3bec4dbdc63a91c10b373ce669a3059a02/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMACOLLECTION
+https://sky%40@skycinemacollection/
 
-#EXTINF:-1,CINEMA COLLECTION EXTRA VAVOO 6
+#EXTINF:-1,CINEMACOLLECTIONEXTRAVAVOO6
 https://vavoo.to/play/1759653413/index.m3u8
 
-#EXTINF:-1,CINEMA COLLECTION EXTRA VAVOO 7
+#EXTINF:-1,CINEMACOLLECTIONEXTRAVAVOO7
 https://vavoo.to/play/3525837057/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115074065832f74af7e279e1203adce:20ece4131fbec82ac7ff056838512143
-#EXTINF:-1,CINEMA FAMILY
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~bde63343-024c-4a89-87cf-2c0001537954_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~61_x~962663be19653722435b202406829a311cbc781f1ab0996f3125057d5bb0d6ef/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMAFAMILY
+https://sky%40@skycinemafamily/
 
-#EXTINF:-1,CINEMA FAMILY EXTRA VAVOO 6
+#EXTINF:-1,CINEMAFAMILYEXTRAVAVOO6
 https://vavoo.to/play/415795144/index.m3u8
 
-#EXTINF:-1,CINEMA FAMILY EXTRA VAVOO 7
+#EXTINF:-1,CINEMAFAMILYEXTRAVAVOO7
 https://vavoo.to/play/3216516117/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
-#EXTINF:-1,CINEMA ACTION
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609652_f~0_g~1_s~0eb8aa65-d31f-4d5d-bb15-14d798a0f9f8_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~61_x~135643f4e71869dd895ba82536760052/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMAACTION
+https://sky%40@skycinemaaction/
 
-#EXTINF:-1,CINEMA ACTION EXTRA VAVOO 6
+#EXTINF:-1,CINEMAACTIONEXTRAVAVOO6
 https://vavoo.to/play/3812796171/index.m3u8
 
-#EXTINF:-1,CINEMA ACTION EXTRA VAVOO 7
+#EXTINF:-1,CINEMAACTIONEXTRAVAVOO7
 https://vavoo.to/play/1144128726/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115d04562a1c328a84b2dab41244cba:5cf8c65d4177349308d7043384880659
-#EXTINF:-1,CINEMA SUSPENSE
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609652_f~0_g~1_s~bb88ae37-72ce-46bc-a06b-664dc1e8053a_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~63_x~069d4c0b67825b1eb47a74409771849f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMASUSPENSE
+https://sky%40@skycinemasuspense/
 
-#EXTINF:-1,CINEMA SUSPENSE EXTRA VAVOO 6
+#EXTINF:-1,CINEMASUSPENSEEXTRAVAVOO6
 https://vavoo.to/play/1820997555/index.m3u8
 
-#EXTINF:-1,CINEMA SUSPENSE EXTRA VAVOO 7
+#EXTINF:-1,CINEMASUSPENSEEXTRAVAVOO7
 https://vavoo.to/play/3060043751/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115dbeea57d2fadedc278956bcbfb02:3eee23f97ae49a81c03356599a614fca
-#EXTINF:-1,CINEMA ROMANCE
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~1de1c1f1-076a-442a-b365-0f5c73b42d18_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~62_x~98727dd066c0894d479ccd79f58cf7a63acc4e22f98ab1af7415dcd2cc48fbf9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMAROMANCE
+https://sky%40@skycinemaromance/
 
-#EXTINF:-1,CINEMA ROMANCE EXTRA VAVOO 6
+#EXTINF:-1,CINEMAROMANCEEXTRAVAVOO6
 https://vavoo.to/play/2890008905/index.m3u8
 
-#EXTINF:-1,CINEMA ROMANCE EXTRA VAVOO 7
+#EXTINF:-1,CINEMAROMANCEEXTRAVAVOO7
 https://vavoo.to/play/1281264885/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11155ad807b90b9570fb8cce067f6166:74c4430ed8142190e52d4b303286696f
-#EXTINF:-1,CINEMA DRAMA
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609652_s~2af0b7de-feff-47c5-9147-a2655a2d504a_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~3dc93ceb5f6332fec2e7c517a429347a909b839075cbd505af9581e1fa26fd57/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMADRAMA
+https://sky%40@skycinemadrama/
 
-#EXTINF:-1,CINEMA DRAMA EXTRA VAVOO 6
+#EXTINF:-1,CINEMADRAMAEXTRAVAVOO6
 https://vavoo.to/play/1235530177/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
-#EXTINF:-1,CINEMA COMEDY
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609653_s~0d38b472-a4a3-41cf-ac48-cc0984c8ddb9_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~61_x~e33a4ebfd26ebca956ad7b55eedc459f49586bfcaf2e0c7e072aaa1a18c64f8f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMACOMEDY
+https://sky%40@skycinemacomedy/
 
-#EXTINF:-1,CINEMA COMEDY EXTRA VAVOO 6
+#EXTINF:-1,CINEMACOMEDYEXTRAVAVOO6
 https://vavoo.to/play/500203271/index.m3u8
 
-#EXTINF:-1,CINEMA COMEDY EXTRA VAVOO 7
+#EXTINF:-1,CINEMACOMEDYEXTRAVAVOO7
 https://vavoo.to/play/3131104474/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115ebc9532d3f2746123f9ec597682a:48873ebbd1e608c27fbf2eb57face2ee
-#EXTINF:-1,CINEMA STORIES
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771609653_f~0_g~1_s~af4b1855-89ab-425f-acc5-6edd043c9533_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~62_x~857134c3df47997221c80d9aef2b85aa/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemastories)/master_2hr-aac.mpd
+#EXTINF:-1,CINEMASTORIES
+https://sky%40@skycinemastories/
 
-#EXTINF:-1,SPORT 24
+#EXTINF:-1,SPORT24
 https://sky%40@skysport24/
 
-#EXTINF:-1,SPORT 24 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/334/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORT24EXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT 24 EXTRA VAVOO 6
+#EXTINF:-1,SPORT24EXTRAVAVOO6
 https://vavoo.to/play/2775802255/index.m3u8
 
-#EXTINF:-1,SPORT UNO
+#EXTINF:-1,SPORTUNO
 https://sky%40@skysportuno/
 
-#EXTINF:-1,SPORT UNO EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/326/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTUNOEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT UNO EXTRA VAVOO 6
+#EXTINF:-1,SPORTUNOEXTRAVAVOO6
 https://vavoo.to/play/210669162/index.m3u8
 
-#EXTINF:-1,SPORT UNO EXTRA VAVOO 7
+#EXTINF:-1,SPORTUNOEXTRAVAVOO7
 https://vavoo.to/play/3192996672/index.m3u8
 
-#EXTINF:-1,SPORT CALCIO
+#EXTINF:-1,SPORTCALCIO
 https://sky%40@skysportcalcio/
 
-#EXTINF:-1,SPORT CALCIO NUMERO 1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/328/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTCALCION1EXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT CALCIO NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/333/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTCALCION2EXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT CALCIO EXTRA VAVOO 6
+#EXTINF:-1,SPORTCALCIOEXTRAVAVOO6
 https://vavoo.to/play/1665920101/index.m3u8
 
-#EXTINF:-1,SPORT CALCIO EXTRA VAVOO 7
+#EXTINF:-1,SPORTCALCIOEXTRAVAVOO7
 https://vavoo.to/play/449990998/index.m3u8
 
-#EXTINF:-1,SPORT TENNIS
+#EXTINF:-1,SPORTTENNIS
 https://sky%40@skysporttennis/
 
-#EXTINF:-1,SPORT TENNIS EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/329/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTTENNISEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT TENNIS EXTRA VAVOO 6
+#EXTINF:-1,SPORTTENNISEXTRAVAVOO6
 https://vavoo.to/play/2100771782/index.m3u8
 
-#EXTINF:-1,SPORT TENNIS EXTRA VAVOO 7
+#EXTINF:-1,SPORTTENNISEXTRAVAVOO7
 https://vavoo.to/play/78546677/index.m3u8
 
-#EXTINF:-1,SPORT ARENA
+#EXTINF:-1,SPORTARENA
 https://sky%40@skysportarena/
 
-#EXTINF:-1,SPORT ARENA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/331/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTARENAEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT ARENA EXTRA VAVOO 6
+#EXTINF:-1,SPORTARENAEXTRAVAVOO6
 https://vavoo.to/play/3007400791/index.m3u8
 
-#EXTINF:-1,SPORT ARENA EXTRA VAVOO 7
+#EXTINF:-1,SPORTARENAEXTRAVAVOO7
 https://vavoo.to/play/2555960713/index.m3u8
 
-#EXTINF:-1,SPORT BASKET
+#EXTINF:-1,SPORTBASKET
 https://sky%40@skysportbasket/
 
-#EXTINF:-1,SPORT BASKET EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/335/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTBASKETEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT BASKET EXTRA VAVOO 6
+#EXTINF:-1,SPORTBASKETEXTRAVAVOO6
 https://vavoo.to/play/2711959620/index.m3u8
 
-#EXTINF:-1,SPORT BASKET EXTRA VAVOO 7
+#EXTINF:-1,SPORTBASKETEXTRAVAVOO7
 https://vavoo.to/play/326825326/index.m3u8
 
-#EXTINF:-1,SPORT MAX
+#EXTINF:-1,SPORTMAX
 https://sky%40@skysportmax/
 
-#EXTINF:-1,SPORT MAX EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/332/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTMAXEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT MAX EXTRA VAVOO 6
+#EXTINF:-1,SPORTMAXEXTRAVAVOO6
 https://vavoo.to/play/2066326916/index.m3u8
 
-#EXTINF:-1,SPORT F1
+#EXTINF:-1,SPORTF1
 https://sky%40@skysportf1/
 
-#EXTINF:-1,SPORT F1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/327/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTF1EXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT F1 EXTRA VAVOO 6
+#EXTINF:-1,SPORTF1EXTRAVAVOO6
 https://vavoo.to/play/4246774056/index.m3u8
 
-#EXTINF:-1,SPORT F1 EXTRA VAVOO 7
+#EXTINF:-1,SPORTF1EXTRAVAVOO7
 https://vavoo.to/play/2289038972/index.m3u8
 
-#EXTINF:-1,SPORT MOTOGP
+#EXTINF:-1,SPORTMOTOGP
 https://sky%40@skysportmotogp/
 
-#EXTINF:-1,SPORT MOTOGP EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/330/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTMOTOGPEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT MOTOGP EXTRA VAVOO 6
+#EXTINF:-1,SPORTMOTOGPEXTRAVAVOO6
 https://vavoo.to/play/3036316886/index.m3u8
 
-#EXTINF:-1,SPORT MOTOGP EXTRA VAVOO 7
+#EXTINF:-1,SPORTMOTOGPEXTRAVAVOO7
 https://vavoo.to/play/2090703806/index.m3u8
 
-#EXTINF:-1,SPORT GOLF
+#EXTINF:-1,SPORTGOLF
 https://sky%40@skysportgolf/
 
-#EXTINF:-1,SPORT GOLF EXTRA VAVOO 6
+#EXTINF:-1,SPORTGOLFEXTRAVAVOO6
 https://vavoo.to/play/729945219/index.m3u8
 
-#EXTINF:-1,SPORT LEGEND
+#EXTINF:-1,SPORTLEGEND
 https://sky%40@skysportlegend/
 
-#EXTINF:-1,SPORT LEGEND EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/336/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTLEGENDEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT MIX
+#EXTINF:-1,SPORTMIX
 https://sky%40@skysportmix/
 
-#EXTINF:-1,SPORT MIX EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/337/index.m3u8?token=T4Nz6WCt2Uwlqma4
+#EXTINF:-1,SPORTMIXEXTRAMEDIAHOSTINGDAVALUTARE
+https://mariofr.com/
 
-#EXTINF:-1,SPORT 251
+#EXTINF:-1,SPORT251
 https://sky%40@skysport251/
 
-#EXTINF:-1,SPORT 252
+#EXTINF:-1,SPORT252
 https://sky%40@skysport252/
 
-#EXTINF:-1,SPORT 253
+#EXTINF:-1,SPORT253
 https://sky%40@skysport253/
 
-#EXTINF:-1,SPORT 254
+#EXTINF:-1,SPORT254
 https://sky%40@skysport254/
 
-#EXTINF:-1,SPORT 255
+#EXTINF:-1,SPORT255
 https://sky%40@skysport255/
 
-#EXTINF:-1,SPORT 256
+#EXTINF:-1,SPORT256
 https://sky%40@skysport256/
 
-#EXTINF:-1,SPORT 257
+#EXTINF:-1,SPORT257
 https://sky%40@skysport257/
 
-#EXTINF:-1,SPORT 258
+#EXTINF:-1,SPORT258
 https://sky%40@skysport258/
 
-#EXTINF:-1,SPORT 259
+#EXTINF:-1,SPORT259
 https://sky%40@skysport259/
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -450,35 +696,20 @@ https://sky%40@skysport259/
 #EXTINF:-1,SKYCH
 https://matterlau1-4-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1772836521600/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2BIJATQQSBGA4TALJRIM4EKNCEGJDDIRSEGQ2EMMJYEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCMZYGMTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPTSZBRMQ3WCZRRGJSWGZDGME4WCM3FMJTDMM3FMY3GIZJZGBSTEZBGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115a64e55228a124aea1f0f275cbb72:efb0d6327dc8566604f401aef73b54e7
 #EXTINF:-1,DEAKIDS
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1771530684_f~0_g~1_s~7dc28c07-7e1d-4778-accf-e19127364d10_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_k~A_l~53_x~a50614158e6317c2e793c7d268d5c2b8/nowitlin1/Content/CMAF_CTR_S1/Live/channel(deakids)/master_2hr-aac.mpd
+https://sky%40@deakids/
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11159c03b1b81a3705641f78ffdedd78:04fb2484b421c35aac9b2d5cea1c5cb9
 #EXTINF:-1,NICKJR
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530684_s~e5cdd22c-066b-4b23-b57e-d6310fc90eba_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~56_x~6548cf6dd01c8d85b6079f57ebe88a5ffbfa241e1623a11de196ce6637872bdb/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickjunior)/master_2hr-aac.mpd
+https://sky%40@nickjunior/
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=111502ab6d88754727d58f0952977a83:536d42da4788324e7c7aaf72ceb061c2
 #EXTINF:-1,NICKELODEON
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530684_s~48036724-7a9f-4a95-b9e4-7091aa250152_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~2c38498f723791ee5b1b0eca946cb1c6bb00dcdd2e3e8753f0b07a2a86de824c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickelodeon)/master_2hr-aac.mpd
+https://sky%40@nickelodeon/
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115769416f3dc252a105e9b6baa84e7:44b1356b9d609448b8c102b09bcc4cca
-#EXTINF:-1,CARTOON NETWORK
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530684_s~2140101e-7261-4650-a0da-19605a45b160_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~e3c6408b44f68c075faeb1e807c6fa8beab84ab2443aef091a49836b83f1e136/nowitlin1/Content/CMAF_CTR_S1/Live/channel(cartoonnetwork)/master_2hr-aac.mpd
+#EXTINF:-1,CARTOONNETWORK
+https://sky%40@cartoonnetwork/
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115cc41a0daf57a22c1c81bd139b559:31347f9bbc90713e972249b54ec882b2
 #EXTINF:-1,BOOMERANG
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~07318507-2557-45a2-9efb-2c6604944480_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~55_x~6319ab6b24fba8b6c43ece8dbdb391c756723a5b46e0930ab98a06cb20266aa2/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd
+https://sky%40@boomerang/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -486,426 +717,183 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771530685_s~07318
 #EXTINF:-1,BOING
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1,PRIMAFILA1 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA1EXTRAVAVOO6
 https://vavoo.to/play/1944682394/index.m3u8
 
-#EXTINF:-1,PRIMAFILA2 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA2EXTRAVAVOO6
 https://vavoo.to/play/877200714/index.m3u8
 
-#EXTINF:-1,PRIMAFILA3 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA3EXTRAVAVOO6
 https://vavoo.to/play/153693434/index.m3u8
 
-#EXTINF:-1,PRIMAFILA4 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA4EXTRAVAVOO6
 https://vavoo.to/play/3137990890/index.m3u8
 
-#EXTINF:-1,PRIMAFILA5 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA5EXTRAVAVOO6
 https://vavoo.to/play/2255083866/index.m3u8
 
-#EXTINF:-1,PRIMAFILA6 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA6EXTRAVAVOO6
 https://vavoo.to/play/3251217290/index.m3u8
 
-#EXTINF:-1,PRIMAFILA7 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA7EXTRAVAVOO6
 https://vavoo.to/play/4238969402/index.m3u8
 
-#EXTINF:-1,PRIMAFILA8 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA8EXTRAVAVOO6
 https://vavoo.to/play/2130255339/index.m3u8
 
-#EXTINF:-1,PRIMAFILA9 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA9EXTRAVAVOO6
 https://vavoo.to/play/1134113883/index.m3u8
 
-#EXTINF:-1,PRIMAFILA10 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA10EXTRAVAVOO6
 https://vavoo.to/play/4272937805/index.m3u8
 
-#EXTINF:-1,PRIMAFILA11 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA11EXTRAVAVOO6
 https://vavoo.to/play/3285185277/index.m3u8
 
-#EXTINF:-1,PRIMAFILA12 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA12EXTRAVAVOO6
 https://vavoo.to/play/2221901869/index.m3u8
 
-#EXTINF:-1,PRIMAFILA13 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA13EXTRAVAVOO6
 https://vavoo.to/play/3104809373/index.m3u8
 
-#EXTINF:-1,PRIMAFILA14 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA14EXTRAVAVOO6
 https://vavoo.to/play/187661709/index.m3u8
 
-#EXTINF:-1,PRIMAFILA15 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA15EXTRAVAVOO6
 https://vavoo.to/play/911168573/index.m3u8
 
-#EXTINF:-1,PRIMAFILA16 EXTRA VAVOO 6
+#EXTINF:-1,PRIMAFILA16EXTRAVAVOO6
 https://vavoo.to/play/1911500525/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=146bf0a1350156f395406e3ad3d724a6:54dabd0f58331d11a678d0561fcdd2e4
-#EXTINF:-1,LAST MINUTE 1
+#EXTINF:-1,LASTMINUTE1
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772967604~exp%3D1773054004~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db157be195045c4f875e8b0de75eb234f3d2d7d1d7ca602c416a2eaaed0ffa96e%23wm%3D0~hmac%3D70fe6dff6e71940278377d76714db94b25e955d6a63c5964a093de176e789189/1rczzcdeth8mt1soys376iys81/web/stream.mpd?channel=1359&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
-#EXTINF:-1,LAST MINUTE 2
+#EXTINF:-1,LASTMINUTE2
 https://fra3-8-dash-pvr.zahs.tv/HD_dazn_event_8_ch/1772976803200/1772986500800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIFCTCMJQHE3TOOKDIU2TELJRIM4TORJQIJBTQRSGGM2EMQZXEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGU4DCNRWGQTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPWENJQMFSDMNZSGUZTOYJTGE3WGZBSMEZDQYZZGUZTON3FMQYGCMBGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d728c21fb7059a4959b8ba9f36d0e95:db80e38779fcf0e16e04de883f2509ad
-#EXTINF:-1,LAST MINUTE 3
+#EXTINF:-1,LASTMINUTE3
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772977507~exp%3D1773063907~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc587a6750104f9876f8dfed3c10fc2fa5d28dade6872f2049da58ba13d96996c%23wm%3D0~hmac%3D42af53d3cb26e62efae7cf90350252fce239b51542aa9adef932d815753b0b7a/1w3fpteubivad1o3dlciik8irw/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
-#EXTINF:-1,LAST MINUTE 4
+#EXTINF:-1,LASTMINUTE4
 https://fra3-0-dash-pvr.zahs.tv/HD_dazn_event_7_ch/1772976828800/1772986500800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIFCTCMJWIE2TIMJYG5BTELJSIJCDMNRUG44EKQSDHBAUMRRYEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGU4DCNRZGATGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTONZYGUYTMNJVMQ3GMZDCMU3GCMZRMM3WIZJTHA2DKZBRME3DSZRGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32c849401c0a50d78197da436acb19e7:262cf3b26a9c11d13980a28a7d058aa8
-#EXTINF:-1,LAST MINUTE 5
+#EXTINF:-1,LASTMINUTE5
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772977505~exp%3D1773063905~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd044c1b5f5bdd35b02271db4007044777dcd8179aa065c8bb00a9adc61dd0f1f%23wm%3D0~hmac%3Dbb301e0175b4b7d14e3a8520b5ffb927650c97a47d36f47a4dfcc50903c5d3d4/o9rc19cslwy71nu0chq2kot54/web/stream.mpd?channel=1347&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7168fd5a463c53b29ba26c8b03e1f9c1:44e15779ffa445706081a861c9e3dd1d
-#EXTINF:-1,LAST MINUTE 6
+#EXTINF:-1,LASTMINUTE6
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772977503~exp%3D1773063903~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Daa89b286ec9e6a1870ecacf160e57ac4f961c8ebed8c0afd355ed0eff988efdc%23wm%3D0~hmac%3Dafbbff2b37648bc5683a3bff37149f42ad284462f2dfb31cd9a831d14cdb1dfb/14j4fj6ukvemw1fbh2rpl4bfwz/web/stream.mpd?channel=1355&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
-#EXTINF:-1,LAST MINUTE 7
+#EXTINF:-1,LASTMINUTE7
 https://fra3-0-dash-pvr.zahs.tv/HD_dazn_event_5_ch/1772976868800/1772998200000/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIFCTCMKGIY2UGNCDINAUKLJVIRBDMOBWIU4DAN2CIM4DQRJTEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGU4DCNZTGATGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPWINTDMVTDOMRRMM4WCNJYG5SGIZBUGVSWEYRSGFRTINDCGZQTCMJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0710b3f13cce5f96903b357903c2b4ca:de33364e4a6853cf3aab23ea271208be
-#EXTINF:-1,LAST MINUTE 8
+#EXTINF:-1,LASTMINUTE8
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772986504~exp%3D1773072904~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df922889afcd419d99763b38ffb223f41c6b09fcc20eec7449a71ecac5d11c944%23wm%3D1%23wmd%3D1152~hmac%3Def6a67e8fcbbd5c5030cef14305afa27c911d760bbf30846040789d6591e0664/g370klgcrkk91s30urm5c4d5y/web/stream.mpd?channel=1382&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
-#EXTINF:-1,LAST MINUTE 9
+#EXTINF:-1,LASTMINUTE9
 https://fra3-2-dash-pvr.zahs.tv/HD_dazn_event_3_ch/1772976940800/1773008100800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIFCTCMZQG43DMOBWGRBTGLJVGY4DKOKEGI2TQNKFGQ2EERJQEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGU4DCOBQGETGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPWEOJZMVSTOMZUMI4GMZRWHE4GGNZQMU4TOOBXMZTGIN3EGFRTGMRGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
-#EXTINF:-1,LAST MINUTE 10
+#EXTINF:-1,LASTMINUTE10
 https://fra3-2-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1772976924800/1773009000000/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIFCTCMSDIU2TQOKCHA2UILJVGZBTGM2EHEYTQRRXGU2UMRCFEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGU4DCNZYGYTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPWKMTDGUZTMMDFMM2DAZTFMQZDSOJZMQ2WCNDGGYZTKNZYMIYWENJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=753722fb8d145e768bc2cd64f5e8a9cd:07b045cd9b2f16c94e174d42984a368e
-#EXTINF:-1,LAST MINUTE 11
+#EXTINF:-1,LASTMINUTE11
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772994603~exp%3D1773081003~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc92db8caa76ae1e97417ece697d10c5868053bd773a592e1b4421f047cda5485%23wm%3D1%23wmd%3D1152~hmac%3Dc77c41b4d66e01613c668b978b298ca30ad00d64233b2f2fe363da7b3804226d/qvcpei8zmegr1muiq3qsvco1j/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
 
-#EXTINF:-1,LAST MINUTE 12
+#EXTINF:-1,LASTMINUTE12
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771163404~exp%3D1771249804~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D51bd17bc022625769f5235da3cd36b222ab1e96148bf0147deafe2255a4656c6%23wm%3D0~hmac%3D92a3b513db025c98b8244ecc5368071580529c769bcf38b7e6b7727f2d93f067/o73axk8g01si1ufywi1f3t9n8/web/stream.mpd?channel=3947&mta=it&outlet=dazn-italy&plang=it
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
-#EXTINF:-1,LBA TV 1
+#EXTINF:-1,LBATV1
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
-#EXTINF:-1,LBA TV 2
+#EXTINF:-1,LBATV2
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
-#EXTINF:-1,LBA TV 3
+#EXTINF:-1,LBATV3
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
-#EXTINF:-1,LBA TV 4
+#EXTINF:-1,LBATV4
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
-#EXTINF:-1,LBA TV 5
+#EXTINF:-1,LBATV5
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
 
-#EXTINF:-1,PREMIERSPORTS1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/300/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,PREMIERSPORTS2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/301/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SKYSPORTSMIX EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/302/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/303/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/304/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/305/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LALIGA TV 1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/306/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZN 1SPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/307/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR PLUSVAMOS EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/308/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR PLUSLALIGA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/309/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZNLALIGASPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/310/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR PLUSDEPORTES EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/311/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZNF1SPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/312/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZN 2SPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/313/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR PLUSGOLF EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/314/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTARLALIGAHDR1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/315/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTARLALIGAHDR2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/316/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTARLALIGA2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/317/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTARLALIGA2 NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/318/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR4 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/319/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTAR5 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/320/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LALIGA TV 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/321/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,PLACEHOLDER322 MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/322/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,MOVISTARLALIGA2 NUMERO 3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/323/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZNLALIGA2SPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/324/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZN 1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/325/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT UNO EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/326/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT F1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/327/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT CALCIO NUMERO 1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/328/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT TENNIS EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/329/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT MOTOGP EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/330/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT ARENA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/331/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT MAX EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/332/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT CALCIO NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/333/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT 24 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/334/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT BASKET EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/335/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT LEGEND EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/336/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,SPORT MIX EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/337/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/338/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSPREMIERLEAGUE EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/339/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,COSMOTESPORT1HD EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/340/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,COSMOTESPORT2HD EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/341/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,COSMOTESPORT3HD EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/342/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,EUROSPORT1SPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/343/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,EUROSPORT2SPAGNA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/344/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/345/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/346/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/347/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS4 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/348/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS5 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/349/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTS6 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/350/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSEXT1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/351/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSEXT2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/352/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSEXT3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/353/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSEXT4 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/354/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSNEWS EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/355/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSPRIME EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/356/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,NOVASPORTSSTART EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/357/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/358/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/359/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/360/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS2 NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/361/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/362/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS3 NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/363/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS5 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/364/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS NUMERO 3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/365/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,LIGUE1 PLUS NUMERO 4 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/366/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINSPORTS1FRANCIA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/367/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINSPORTS2FRANCIA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/368/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINSPORTS3FRANCIA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/369/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,CANAL PLUSFOOT EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/370/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,RMCSPORT1 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/371/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,EUROSPORT2 AUDIO NON DISPONIBILE EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/372/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINMOVIES EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/373/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,AFTERFOOTTVFRANCIA EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/374/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZNCOMMERCIAL EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/375/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZNCOMMERCIAL NUMERO 2 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/376/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,DAZNCOMMERCIAL NUMERO 3 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/377/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINSPORTS4 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/378/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINSPORTS5 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/379/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,BEINSPORTS6 EXTRA MEDIAHOSTING
-https://cc3.screenistream.xyz:8080/stream/380/index.m3u8?token=T4Nz6WCt2Uwlqma4
-
-#EXTINF:-1,RSILA1 EXTRA VAVOO 6
+#EXTINF:-1,RSILA1EXTRAVAVOO6
 https://vavoo.to/play/2455610203/index.m3u8
 
-#EXTINF:-1,RSILA1 EXTRA VAVOO 7
+#EXTINF:-1,RSILA1EXTRAVAVOO7
 https://vavoo.to/play/2290395046/index.m3u8
 
-#EXTINF:-1,RSILA2 EXTRA VAVOO 6
+#EXTINF:-1,RSILA2EXTRAVAVOO6
 https://vavoo.to/play/3590183307/index.m3u8
 
-#EXTINF:-1,RSILA2 EXTRA VAVOO 7
+#EXTINF:-1,RSILA2EXTRAVAVOO7
 https://vavoo.to/play/3475299702/index.m3u8
 
-#EXTINF:-1,TELEFOGGIA EXTRA VAVOO 6
+#EXTINF:-1,TELEFOGGIAEXTRAVAVOO6
 https://vavoo.to/play/2365107871/index.m3u8
 
-#EXTINF:-1,PRIME ENG OFFLINE
+#EXTINF:-1,PRIMEENGDAVALUTARE
 https://mariofr.com/
 
-#EXTINF:-1,PARAMOUNT ENG OFFLINE
+#EXTINF:-1,PARAMOUNTENGDAVALUTARE
 https://mariofr.com/
 
-#EXTINF:-1,PARAMOUNTA OFFLINE
+#EXTINF:-1,PARAMOUNTADAVALUTARE
 https://mariofr.com/
 
-#EXTINF:-1,BLUESPORT1 OFFLINE
+#EXTINF:-1,BLUESPORT1DAVALUTARE
 https://mariofr.com/
 
-#EXTINF:-1,BLUESPORTF OFFLINE
+#EXTINF:-1,BLUESPORTFDAVALUTARE
 https://mariofr.com/
 
-#EXTINF:-1,PRIME UCL OFFLINE
+#EXTINF:-1,PRIMEUCLDAVALUTARE
 https://mariofr.com/
 
