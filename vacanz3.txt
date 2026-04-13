@@ -270,14 +270,17 @@ https://vavoo.to/play/3758728323/index.m3u8
 #EXTINF:-1,[60] SPORT ITALIA EXTRA EUROTV 7
 https://vavoo.to/play/2881739927/index.m3u8
 
-#EXTINF:-1,[47] SUPER!TENNIS EXTRA EUROTV 6
+#EXTINF:-1,[64] SUPERTENNIS EXTRA EUROTV 6
 https://vavoo.to/play/3213195143/index.m3u8
 
-#EXTINF:-1,[47] SUPER!TENNIS EXTRA EUROTV 7
+#EXTINF:-1,[64] SUPERTENNIS EXTRA EUROTV 7
 https://vavoo.to/play/3009377513/index.m3u8
 
-#EXTINF:-1,DAZN 1 OFFLINE
-https://mariofr.com/
+#EXTINF:-1,DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dct-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1,DAZN 1 EXTRA MH OFFLINE
 https://mariofr.com/
